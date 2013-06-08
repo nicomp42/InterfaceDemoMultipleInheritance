@@ -1,3 +1,4 @@
+/* Cool Stuff */
 package MainPackage;
 
 public class Main {
